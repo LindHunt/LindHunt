@@ -130,20 +130,54 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,go,js,ts,html,css,git,github,gitlab,vscode,vim,docker,kubernetes,nginx,mysql,postgres,redis,mongodb&theme=dark&perline=10" />
+**// languages**
+
+<img src="https://skillicons.dev/icons?i=python,go,rust,c,cpp,java,js,ts,php,ruby&theme=dark&perline=10" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,c,cpp,java,php,rust,graphql,figma&theme=dark&perline=10" />
+**// frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,html,css,sass,tailwind,figma&theme=dark&perline=10" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,grafana,elasticsearch&theme=dark&perline=10" />
+**// backend & infra**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,kubernetes,nginx,terraform,ansible,jenkins,git,github&theme=dark&perline=10" />
 
 <br><br>
+
+**// data & cloud**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,aws,gcp,azure,firebase,graphql&theme=dark&perline=10" />
+
+<br><br>
+
+**// systems & editors**
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,vim,vscode,bash,gitlab,grafana,prometheus,raspberrypi,npm&theme=dark&perline=10" />
+
+<br><br>
+
+**// security toolkit**
 
 ![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&labelColor=0d0221)
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d0221)
+![Nmap](https://img.shields.io/badge/NMAP-39ff14?style=for-the-badge&labelColor=0d0221)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-ff003c?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d0221)
+![SQLMap](https://img.shields.io/badge/SQLMAP-ff2ec4?style=for-the-badge&labelColor=0d0221)
+![Nikto](https://img.shields.io/badge/NIKTO-00f6ff?style=for-the-badge&labelColor=0d0221)
+![Hydra](https://img.shields.io/badge/HYDRA-ff003c?style=for-the-badge&labelColor=0d0221)
+![John the Ripper](https://img.shields.io/badge/JOHN%20THE%20RIPPER-39ff14?style=for-the-badge&labelColor=0d0221)
+![Ghidra](https://img.shields.io/badge/GHIDRA-00f6ff?style=for-the-badge&labelColor=0d0221)
+![Radare2](https://img.shields.io/badge/RADARE2-ff2ec4?style=for-the-badge&labelColor=0d0221)
+![Shodan](https://img.shields.io/badge/SHODAN-ff003c?style=for-the-badge&labelColor=0d0221)
+![Censys](https://img.shields.io/badge/CENSYS-39ff14?style=for-the-badge&labelColor=0d0221)
+![theHarvester](https://img.shields.io/badge/THEHARVESTER-00f6ff?style=for-the-badge&labelColor=0d0221)
+![Amass](https://img.shields.io/badge/AMASS-ff2ec4?style=for-the-badge&labelColor=0d0221)
+![Gobuster](https://img.shields.io/badge/GOBUSTER-39ff14?style=for-the-badge&labelColor=0d0221)
+![Subfinder](https://img.shields.io/badge/SUBFINDER-00f6ff?style=for-the-badge&labelColor=0d0221)
 ![Maltego](https://img.shields.io/badge/MALTEGO-39ff14?style=for-the-badge&labelColor=0d0221)
 ![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d0221)
 ![Firefox](https://img.shields.io/badge/FIREFOX-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d0221)
