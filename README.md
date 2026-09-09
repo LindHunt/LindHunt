@@ -22,16 +22,26 @@
 <div align="center">
 
 ```
-                          ___---___
-                       .--         --.
-                     ./   .-.   .-.   \.
-                    /    |   | |   |    \
-                   |     '-'   '-'     |
-                   |    /  .-----.  \    |
-                    \   | |  ( )  | |   /
-                     \.  \  '---'  /  ./
-                       '--___---___--'
-                     E X E C U T E   R O O T
+                  uuuuuuu
+              uu$$$$$$$$$$$uu
+           uu$$$$$$$$$$$$$$$$$uu
+          u$$$$$$$$$$$$$$$$$$$$$u
+         u$$$$$$$$$$$$$$$$$$$$$$$u
+         u$$$$$$$$$$$$$$$$$$$$$$$u
+         u$$$$$$"   "$$$"   "$$$$$$u
+         "$$$$"      u$u       $$$$"
+          $$$u       u$u       u$$$
+          $$$u      u$$$u      u$$$
+           "$$$$uu$$$   $$$uu$$$$"
+             "$$$$$$$"   "$$$$$$$"
+              u$$$$$$$u u$$$$$$$u
+              u$$$$$$$$$u$$$$$$$$u
+              u$$$$$$$$$u$$$$$$$$u
+               "$$$$$$$$$$$$$$$$"
+                 "$$$$$$$$$$$$"
+                   """""""""
+
+              [ SYSTEM COMPROMISED ]
 ```
 
 </div>
@@ -125,6 +135,10 @@
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,c,cpp,java,php,rust,graphql,figma&theme=dark&perline=10" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,grafana,elasticsearch&theme=dark&perline=10" />
 
 <br><br>
 
