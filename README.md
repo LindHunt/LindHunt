@@ -20,46 +20,7 @@
 </p>
 
 <div align="center">
-
-```
-                  uuuuuuu
-              uu$$$$$$$$$$$uu
-           uu$$$$$$$$$$$$$$$$$uu
-          u$$$$$$$$$$$$$$$$$$$$$u
-         u$$$$$$$$$$$$$$$$$$$$$$$u
-         u$$$$$$$$$$$$$$$$$$$$$$$u
-         u$$$$$$"   "$$$"   "$$$$$$u
-         "$$$$"      u$u       $$$$"
-          $$$u       u$u       u$$$
-          $$$u      u$$$u      u$$$
-           "$$$$uu$$$   $$$uu$$$$"
-             "$$$$$$$"   "$$$$$$$"
-              u$$$$$$$u u$$$$$$$u
-              u$$$$$$$$$u$$$$$$$$u
-              u$$$$$$$$$u$$$$$$$$u
-               "$$$$$$$$$$$$$$$$"
-                 "$$$$$$$$$$$$"
-                   """""""""
-
-              [ SYSTEM COMPROMISED ]
-```
-
-</div>
-
-```ansi
-[0;35m┌──────────────────────────────────────────────────────────────────┐
-[0;35m│ [0;32mSYSTEM LOG :: IDENTITY VERIFIED                                 [0;35m│
-[0;35m├──────────────────────────────────────────────────────────────────┤
-[0;35m│ [0;36mActive across Web Application Security, Network Penetration     [0;35m│
-[0;35m│ [0;36mTesting, Offensive Security, Threat Intelligence, OSINT and      [0;35m│
-[0;35m│ [0;36mSOCMINT — mapping attack surfaces, hunting and validating        [0;35m│
-[0;35m│ [0;36mvulnerabilities, and running open-source investigations.         [0;35m│
-[0;35m│                                                                    [0;35m│
-[0;35m│ [0;33mCredited for the responsible disclosure of:                      [0;35m│
-[0;35m│ [0;31m  [+] CVE-2026-18741                                              [0;35m│
-[0;35m│ [0;31m  [+] CVE-2026-26211                                              [0;35m│
-[0;35m└──────────────────────────────────────────────────────────────────┘
-```
+<img width="400" height="225" alt="61c58966533947b891c2dcd3451a7faf" src="https://github.com/user-attachments/assets/712e5b6f-92b4-40f2-b689-b4b932bad412" />
 
 <br>
 
